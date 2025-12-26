@@ -1,27 +1,3 @@
-# Food Order Website
-
-A complete online food ordering system built with PHP, CSS, and JavaScript.
-
-## Features
-
-### User Features
-- **Home Page**: Beautiful landing page with featured dishes
-- **Menu Page**: Browse all available food items with categories
-- **Shopping Cart**: Add items, update quantities, and checkout
-- **Wishlist**: Save favorite items for later
-- **Order Management**: View order history and status
-- **User Authentication**: Register and login system
-- **About Page**: Information about the restaurant
-- **Contact Page**: Send messages to the restaurant
-
-### Admin Features
-- **Admin Dashboard**: Overview of all statistics
-- **Product Management**: Add, edit, and delete food items
-- **Order Management**: View and update order statuses
-- **User Management**: View all registered users
-- **Message Management**: View and manage customer messages
-- **Profile Update**: Update admin profile and change password
-
 ## Installation
 
 1. **Requirements**
@@ -105,7 +81,7 @@ New folder/
 
 ## Customization
 
-- **Food Images**: Replace image URLs in the database or update the product image field
+- **Images**: Replace image URLs in the database or update the product image field
 - **Colors**: Modify CSS variables in `assets/css/style.css`
 - **Categories**: Add new categories when creating products
 
@@ -123,4 +99,5 @@ For issues or questions, please contact the development team.
 ---
 
 **Note**: This is a development version. For production use, implement additional security measures and optimize the code.
+
 
